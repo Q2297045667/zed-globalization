@@ -1,5 +1,5 @@
 {
-  "version": "v1.5.3",
+  "version": "v1.5.4",
   "files": [
     "crates/acp_thread/src/acp_thread.rs",
     "crates/acp_thread/src/connection.rs",
@@ -475,10 +475,14 @@
     "crates/edit_prediction_context/src/assemble_excerpts.rs",
     "crates/edit_prediction_context/src/edit_prediction_context.rs",
     "crates/edit_prediction_context/src/edit_prediction_context_tests.rs",
+    "crates/edit_prediction_context/src/editable_context.rs",
     "crates/edit_prediction_context/src/fake_definition_lsp.rs",
+    "crates/edit_prediction_context/src/git_log_context.rs",
     "crates/edit_prediction_metrics/src/edit_prediction_metrics.rs",
+    "crates/edit_prediction_metrics/src/jumps.rs",
     "crates/edit_prediction_metrics/src/kept_rate.rs",
     "crates/edit_prediction_metrics/src/main.rs",
+    "crates/edit_prediction_metrics/src/patch.rs",
     "crates/edit_prediction_metrics/src/patch_metrics.rs",
     "crates/edit_prediction_metrics/src/prediction_score.rs",
     "crates/edit_prediction_metrics/src/reversal.rs",
