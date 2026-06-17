@@ -1923,6 +1923,7 @@
         "The previous conversation was compacted. Use this summary as context:\\n\\nOlder context": "",
         "The previous conversation was compacted. Use this summary as context:\\n\\n{summary}": "",
         "below limit": "",
+        "near input limit": "",
         "near limit": "",
         "fixed token limit": "",
         "old user": "",
@@ -6293,7 +6294,6 @@
         "Open Global Rules": "",
         "(AGENTS.md)": "",
         "Open Project Rules": "",
-        "Rules Library": "",
         "Profiles": "",
         "Toggle Threads Sidebar": "",
         "Reauthenticate": "",
@@ -10579,7 +10579,6 @@
         "{server_url}/docs/ai/privacy-and-security": "",
         "{server_url}/docs/ai/edit-prediction": "",
         "{server_url}/docs/ai/skills": "",
-        "{server_url}/docs/ai/rules": "",
         "{server_url}/blog/acp-registry": "",
         "zed://agent/shared/{}": ""
     },
