@@ -1,5 +1,5 @@
 {
-  "version": "v1.9.0-pre",
+  "version": "v1.9.0",
   "files": [
     "crates/acp_thread/src/acp_thread.rs",
     "crates/acp_thread/src/connection.rs",
@@ -432,7 +432,6 @@
     "crates/docs_preprocessor/src/main.rs",
     "crates/edit_prediction/benches/kept_rate.rs",
     "crates/edit_prediction/benches/ts_error_count.rs",
-    "crates/edit_prediction/src/capture_prediction_context.rs",
     "crates/edit_prediction/src/cursor_excerpt.rs",
     "crates/edit_prediction/src/data_collection.rs",
     "crates/edit_prediction/src/edit_prediction.rs",
@@ -1903,6 +1902,7 @@
     "crates/zed_credentials_provider/src/zed_credentials_provider.rs",
     "crates/zed_env_vars/src/zed_env_vars.rs",
     "crates/zeta_prompt/src/excerpt_ranges.rs",
+    "crates/zeta_prompt/src/hashed_regions.rs",
     "crates/zeta_prompt/src/multi_region.rs",
     "crates/zeta_prompt/src/udiff.rs",
     "crates/zeta_prompt/src/zeta_prompt.rs",
