@@ -1,5 +1,5 @@
 {
-  "version": "v1.11.3-pre",
+  "version": "v1.11.3",
   "files": [
     "crates/acp_thread/src/acp_thread.rs",
     "crates/acp_thread/src/connection.rs",
@@ -760,6 +760,7 @@
     "crates/gpui/examples/tree.rs",
     "crates/gpui/examples/uniform_list.rs",
     "crates/gpui/examples/window.rs",
+    "crates/gpui/examples/window_movable.rs",
     "crates/gpui/examples/window_positioning.rs",
     "crates/gpui/examples/window_shadow.rs",
     "crates/gpui/src/_accessibility.rs",

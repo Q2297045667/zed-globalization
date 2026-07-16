@@ -33058,6 +33058,14 @@
         "Window bounds changed: {:?}": "",
         "cmd-q": ""
     },
+    "zed/crates/gpui/examples/window_movable.rs": {
+        "wasm": "",
+        "Try to drag the titlebar, and check the Window menu.": "",
+        "Native titlebar, movable": "",
+        "Native titlebar, NOT movable": "",
+        "Custom titlebar, movable": "",
+        "Custom titlebar, NOT movable": ""
+    },
     "zed/crates/gpui/examples/window_positioning.rs": {
         "wasm": "",
         "origin: {}, {} size: {}, {}": "",
@@ -36389,7 +36397,8 @@
     },
     "zed/crates/gpui_windows/src/dispatcher.rs": {
         "RealtimeAudio priority should use spawn_realtime, not dispatch": "",
-        "thread priority": ""
+        "thread priority": "",
+        "system": ""
     },
     "zed/crates/gpui_windows/src/display.rs": {
         "can not find the primary monitor: {}": "",
@@ -42079,6 +42088,8 @@
         "--stdio": "",
         "(\\$([A-Za-z0-9_\\.]+|[\\#])|%[psdifjo#\\$%])": "",
         "(.+?)": "",
+        "^6": "",
+        "Failed to parse TypeScript version req": "",
         "node_modules/typescript-language-server/lib/cli.js": "",
         "node_modules/typescript-language-server/lib/cli.mjs": "",
         "typescript": "",
@@ -42086,6 +42097,8 @@
         ".yarn/sdks/typescript/lib/typescript.js": "",
         ".yarn/sdks/typescript/lib": "",
         "node_modules/typescript/lib": "",
+        "tsserver.js": "",
+        "latest": "",
         "type": "",
         "constant": "",
         "function": "",
@@ -45319,7 +45332,7 @@
         "--fetch-timeout": "",
         "failed to parse npm info response: {e}\\nstdout: {}": "",
         "getting npm before config": "",
-        "selected latest npm package version package={name:?} before={before:?} dist_tag_latest={latest_dist_tag:?} selected={selected_version}": "",
+        "selected latest npm package version package={name:?} version_requirement={version_requirement:?} before={before:?} dist_tag_latest={latest_dist_tag:?} selected={selected_version}": "",
         "installing npm packages directory={} packages={packages:?}": "",
         "{name}@{version}": "",
         "--save-exact": "",
@@ -45432,7 +45445,18 @@
         "2.0.0-beta.1": "",
         "2023-12-01T00:00:00.000Z": "",
         "expected cutoff to reject all package versions": "",
-        "no version found for npm package test-package before 2023-12-01T00:00:00.000Z": ""
+        "no version found for npm package test-package before 2023-12-01T00:00:00.000Z": "",
+        "7.0.0": "",
+        "6.0.3": "",
+        "5.9.3": "",
+        "6.0.2": "",
+        "^6": "",
+        "2024-04-01T00:00:00.000Z": "",
+        "7.1.0-beta.1": "",
+        "7.1.0-beta.2": "",
+        ">=7.1.0-beta.1, <7.1.0": "",
+        "expected version requirement to reject all package versions": "",
+        "no version found for npm package test-package": ""
     },
     "zed/crates/notifications/src/notification_store.rs": {
         "Notification store was dropped while loading notifications": ""
@@ -56861,9 +56885,9 @@
         "vtsls": "",
         "!tailwindcss-language-server": "",
         "!eslint": "",
+        "!vtsls": "",
         "Rust": "",
         "deno": "",
-        "!vtsls": "",
         "typescript-language-server": "",
         "{": "",
         ": false, ": "",
